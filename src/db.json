@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "title":"titanic",
+        "genre":"romance",
+        "rating":8,
+        "image":"images/titanic.jfif"
+    },
+
+    {
+        "id":2,
+        "title":"mirage",
+        "genre":"sci-fi",
+        "rating":8,
+        "image":"images/mirage.jfif"
+
+    },
+
+    {
+        "id":3,
+        "title":"f&f",
+        "genre":"action",
+        "rating":8,
+        "image":"images/f&f.jfif"
+
+    },
+
+    {
+        "id":4,
+        "title":"hangover",
+        "genre":"comedy",
+        "rating":8,
+        "image":"images/hangover.jfif"
+
+    },
+
+    {
+        "id":5,
+        "title":"inside-out",
+        "genre":"animated",
+        "rating":8,
+        "image":"images/inside-out.jfif"
+
+    },
+    {
+        "id":6,
+        "title":"Wednesday",
+        "genre":"horror",
+        "rating":8,
+        "image":"images/wed.jfif"
+
+    }
+]
